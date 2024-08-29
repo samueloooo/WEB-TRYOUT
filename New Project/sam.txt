@@ -1,0 +1,33 @@
+<div big-txt>
+                            <h1>Future cloud computing </h1>
+                        </div>
+
+                        <div class="bic-txt">
+                            <h1>starts right here </h1>
+                        </div>
+                        <div class="small-txt">
+                            <p>Powerful and production-ready, our cloud platform has the </p>
+                        </div>
+                        <div class="smaal-txt">
+                            <p>solutions you need to succeed.</p>
+                        </div>
+                         <div class="cat">
+                            <button>Get Started</button>
+                        </div>
+                        <div main-bnt>
+                            <button>Try for free</button>
+                        </div>
+                        <div class="imgbox">
+                        <img src="Images/Screenshot_2024-08-07_133407-removebg-preview 2.png" alt="">
+                    </div>
+
+                    Simple, managed Kubernetes built for sale.
+
+                    Free control plane, free bandwidth <br> allowance and more.
+
+                    Automate & Optimize to peak performance
+
+                                            <div class="list-7">
+                                <li>Build, deploy and scale apps quickly</li>
+                                <li>Fully managed solution, zero infrastructure  <br> management.</li>
+Highly up on demand 
